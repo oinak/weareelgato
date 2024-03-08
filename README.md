@@ -1,9 +1,16 @@
-# WeAreElGato
+
+<style>
+body, p, td {
+  color: #3f888f;
+}
+</style>
+
+![Logo El Gato](https://i0.wp.com/weareelgato.com/wp-content/uploads/2017/04/pie.png?resize=1024%2C124&ssl=1)
 
 ## Competiciones
 
-| MES   | FECHA    | COMPETICION |
-|-------|----------|-------------|
+| MES   | FECHA    | COMPETICIÓN |
+|------:|:--------:|-------------|
 |Marzo  |   9      | TNR ABS MADRID MASCULINO EQUIPOS|
 |Marzo  |   16     | AEVE | 
 |Marzo  |   17?    | SASLE | 
