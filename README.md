@@ -1,10 +1,4 @@
 
-<style>
-body, p, td {
-  color: #3f888f;
-}
-</style>
-
 ![Logo El Gato](https://i0.wp.com/weareelgato.com/wp-content/uploads/2017/04/pie.png?resize=1024%2C124&ssl=1)
 
 ## Competiciones
