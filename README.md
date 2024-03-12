@@ -3,15 +3,15 @@
 
 ## Competiciones
 
-| MES   | FECHA    | COMPETICIÓN |
-|------:|:--------:|-------------|
-|Marzo  |   9      | TNR ABS MADRID MASCULINO EQUIPOS|
-|Marzo  |   16     | AEVE | 
-|Marzo  |   17?    | SASLE | 
-|Abril  |   6      | TNR ABS SAN SEBASTIAN MASCULINO Y FEMENINO EQUIPOS|
-|Abril  |   13/14  | TLM HARO|
-|Abril  |   27     | QUIJOTE EN CIUDAD REAL|
-|Abril  |   27     | TLM MADRID?|
-|Mayo   |   11/12  | 3ª FASE MADRID|
-|Junio  |   15/16  | CTO MADRID VETERANOS|
-|Junio  |   22/23  | CTO ESPAÑA VETERANOS GANDÍA|
+| MES       | DÍAS     | COMPETICIÓN | INFO |
+|----------:|:--------:|-------------|------|
+|~~Marzo~~  |   ~~9~~  | ~~TNR ABS MADRID MASCULINO EQUIPOS~~ | Resultados: [Individual](https://app.skermo.org/ranking/public/RFEE/competition/7885), [Equipos](https://app.skermo.org/client/1/463e194a18c901d2344e388abf2cf216.pdf) |
+|Marzo      |   16     | AEVE | |
+|Marzo      |   17     | SASLE |📍[C/AZUELA 4 - COLLADO VILLALBA](https://maps.app.goo.gl/iBuhXxem1i7Eo4PJ9)<br>16:00 h. INDIVIDUAL 15€<br>18:30 h. EQUIPOS 10€ |
+|Abril      |   6      | TNR ABS SAN SEBASTIAN MASCULINO Y FEMENINO EQUIPOS|
+|Abril      |   13/14  | TLM HARO|
+|Abril      |   27     | QUIJOTE EN CIUDAD REAL|
+|Abril      |   27     | TLM MADRID?|
+|Mayo       |   11/12  | 3ª FASE MADRID|
+|Junio      |   15/16  | CTO MADRID VETERANOS|
+|Junio      |   22/23  | CTO ESPAÑA VETERANOS GANDÍA|
