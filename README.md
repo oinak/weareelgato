@@ -5,7 +5,7 @@
 
 | MES       | DÍAS     | COMPETICIÓN | INFO |
 |----------:|:--------:|-------------|------|
-|~~Marzo~~  |   ~~9~~  | ~~TNR ABS MADRID MASCULINO EQUIPOS~~ | Resultados: [Individual](https://app.skermo.org/ranking/public/RFEE/competition/7885), [Equipos](https://app.skermo.org/client/1/463e194a18c901d2344e388abf2cf216.pdf) |
+|~~Marzo~~  |   ~~9~~  | ~~TNR ABS MADRID MASCULINO EQUIPOS~~ | Resultados: [Individual](https://app.skermo.org/ranking/public/RFEE/competition/7885), [Equipos](https://app.skermo.org/client/1/463e194a18c901d2344e388abf2cf216.pdf)<br> :clock330: Sable individual –> Llamada 15:30 Inicio 16:00 (todas las categorías)<br> :clock11: Sable equipos –> Llamada 10:30 Inicio 11:00|
 |Marzo      |   16     | AEVE | [info](https://aevesgrima.es/evento/copa-aeve-2024/) |
 |Marzo      |   16     | 3ª FASE DE MADRID M11 | 📍[CEM C/ Colomer 18](https://maps.app.goo.gl/W2imdmb46W1kwhvr7)<br>:clock4: 16 h.<br>🔗 [Convocatoria](https://us15.campaign-archive.com/?u=7cbc6d1c5e64de6ca4b08b9aa&id=a798c01286)<br>💸 [Tarifas](https://weareelgato.com/wp-content/uploads/2023/10/Tarifas-competiciones-Hoja-1-2.pdf)
 |Marzo      |   17     | [SASLE](https://www.instagram.com/sasle_esgrima/) |📍[C/ AZUELA 4 - COLLADO VILLALBA](https://maps.app.goo.gl/iBuhXxem1i7Eo4PJ9)<br>🕓 16:00 h. INDIVIDUAL 15€<br>🕡 18:30 h. EQUIPOS 10€ |
