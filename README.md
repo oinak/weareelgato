@@ -3,8 +3,9 @@
 
 Esta es una fan-page del club de esgrima "El Gato" de Madrid.
 
-Si quieres aportar datos de nuevas competiciones, [edita aquí](https://github.com/oinak/wearelgato)
+Si quieres aportar datos de nuevas competiciones, [edita aquí](https://github.com/oinak/weareelgato/edit/main/_data/competiciones.yml)
 pulsando en el icono del lápiz.
 
 La informacion de las competiciones se lee del archivo `_data/competiciones.yaml`.
 Puedes copiar una de las existentes y modificarla para agregar una nueva.
+
