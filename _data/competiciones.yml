@@ -1,0 +1,67 @@
+---
+- mes: Marzo
+  dia: 9
+  nombre: TNR ABS MADRID MASCULINO EQUIPOS
+  info: |
+    Resultados:
+    [Individual](https://app.skermo.org/ranking/public/RFEE/competition/7885)
+    [Equipos](https://app.skermo.org/client/1/463e194a18c901d2344e388abf2cf216.pdf)
+- mes: Marzo
+  dia: 16
+  nombre: AEVE
+  info: |
+    🔗 [Info oficial](https://aevesgrima.es/evento/copa-aeve-2024/)
+    <br>📍 [C/ Ignacio Zuloaga 14, Rivas Vaciamadrid](https://maps.app.goo.gl/n1eEbAj81V99ywZ26)
+    <br>🕞 Sable individual –> Llamada 15:30 Inicio 16:00
+    <br>🕚 Sable equipos –> Llamada 10:30 Inicio 11:00
+    <br>💸 €35,00 – €85,00
+- mes: Marzo
+  dia: 17
+  nombre: SASLE
+  info: |
+    🔗 [Web](https://www.instagram.com/sasle_esgrima/)
+    <br>📍[C/ AZUELA 4 - COLLADO VILLALBA](https://maps.app.goo.gl/iBuhXxem1i7Eo4PJ9)
+    <br>🕓 16:00 h. INDIVIDUAL 15€
+    <br>🕡 18:30 h. EQUIPOS 10€
+- mes: Marzo
+  dia: 22
+  nombre: |
+    🐈 [EL GATO](https://weareelgato.com) - TORNEO DE PRIMAVERA
+  info: |
+    📍[C/ Teniente Coronel Noreña 25, Local 1](https://maps.app.goo.gl/5oFfYiqmkU5BUS6q8)<br>🕢 19:30 h.
+
+- mes: Marzo
+  dia: 23
+  nombre: Fencing Cup Quijote M14 [CECR](https://www.cecr.es/)<br>M/F Sable
+  info: |
+    📍[C/ Camino del Campillo, sn,](https://goo.gl/maps/fkAUxTzjARx5LMFe9)
+    <br>🕚 11:00 h. Individual / 🕓 16:00 h. Equipos
+    <br>ℹ️  [Folleto](files/u14_2024_dossier.pdf) |
+- mes: Marzo
+  dia: 24
+  nombre: Fencing Cup Quijote M14 [CECR](https://www.cecr.es/)<br>M/F Florete
+  info: |
+   📍[C/ Camino del Campillo, sn,](https://goo.gl/maps/fkAUxTzjARx5LMFe9)
+    <br>🕚 11:00 h. Individual / 🕓 16:00 h. Equipos
+    <br>ℹ️  [Folleto](files/u14_2024_dossier.pdf) |
+- mes: Abril
+  dia: 6
+  nombre: TNR ABS SAN SEBASTIAN<br>MASCULINO Y FEMENINO EQUIPOS
+- mes: Abril
+  dia: "13/14"
+  nombre: TLM HARO
+- mes: Abril
+  dia: 27
+  nombre: QUIJOTE EN CIUDAD REAL
+- mes: Abril
+  dia: 27
+  nombre: TLM MADRID?
+- mes: Mayo
+  dia: 11/12
+  nombre: 3ª FASE MADRID
+- mes: Junio
+  dia: 15/16
+  nombre: CTO MADRID VETERANOS
+- mes: Junio
+  dia: 22/23
+  nombre: CTO ESPAÑA VETERANOS GANDÍA
