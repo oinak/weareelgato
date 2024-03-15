@@ -4,12 +4,15 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://unpkg.com/chota@latest">
+    <link rel="stylesheet" href="assets/main.css">
   </head>
   <body>
     <div class="container">
       <nav class="nav">
         <div class="nav-left">
-          <a class="brand" href="hrttp://weareelgato.com">El Gato</a>
+          <a class="brand" href="hrttp://weareelgato.com">
+          <img class="logo" src="assets/logo.png" alt="Logo">
+          </a>
           <div class="tabs">
             <a class="active" href="#">Competiciones</a>
             <a href="https://weareelgato.com" target="_blank">Oficial</a>
@@ -20,12 +23,12 @@
           <a class="button outline" target="_blank" href="https://github.com/oinak/weareelgato/blob/main/README.md">ℹ️  Acerca de</a>
         </div>
       </nav>
+      {{ content }}
       <div class="text-center">
         <img class="col-12" src="https://i0.wp.com/weareelgato.com/wp-content/uploads/2017/04/pie.png?resize=1024%2C124&ssl=1"
-          alt="Logo El Gato"
+          alt="El Gato"
         >
       </div>
-      {{ content }}
     </div>
   </body>
 </html>

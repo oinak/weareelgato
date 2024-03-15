@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+
+:root {
+  --bg-color: #ffffff;
+  --bg-secondary-color: #f3f3f6;
+  --color-darkGrey: #3f4144;
+  --color-error: #d43939;
+  --color-grey: #747681;
+  --color-lightGrey: #d2d6dd;
+  --color-primary: #007998; /* brand color */
+  --color-success: #28bd14;
+  --font-color: #333333;
+  --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
+  --font-family-sans: 'Ubuntu', sans-serif;
+  --font-size: 1.6rem;
+  --grid-gutter: 2rem;
+  --grid-maxWidth: 108rem; /* max container width 1080px */
+}
+
+body {
+ font-weight: 400;
+ background-color: #ddffff;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 300;
+  color: #666;
+
+}
+b,strong{
+  font-weight: 600;
+  color: #666;
+}
+
+img.logo{
+  display: block;
+  max-width:230px;
+  max-height:95px;
+  width: auto;
+  height: auto;
+}
+
+.container {
+  background-color: #eee;
+  padding: 2em;
+  background: rgb(240,240,240);
+  background: linear-gradient(90deg, rgba(240,240,240,1) 0%, rgba(255,255,255,1) 50%, rgba(240,240,240,1) 100%);
+  min-height: 100%;
+  box-shadow: /* paper stack effect */
+  0 1px 1px rgba(0,0,0,0.20),
+  0 10px 0 -5px #eee,
+  0 10px 1px -4px rgba(0,0,0,0.20),
+  0 20px 0 -10px #eee,
+  0 20px 1px -9px rgba(0,0,0,0.20),
+  0px 8px 12px 4px rgba(0,0,0,0.5);
+  margin-bottom: 3em;
+}
+.avatar {
+  display: inline-block;
+  margin: auto 3em;
+  width: 50%;
+  max-width: 20rem;
+}
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+}
+.nav span {
+  vertical-align: middle;
+  padding: 10px;
+  line-height: 1.7em;
+}
+.tag {
+  text-transform: none;
+}
+
