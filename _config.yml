@@ -30,7 +30,7 @@ twitter_username: oinak
 github_username:  oinak
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 

@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/fer/src/weareelgato/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+.avatar	_site/assets/main.css	/^.avatar {$/;"	c
+.avatar	assets/main.css	/^.avatar {$/;"	c
+.container	_site/assets/main.css	/^.container {$/;"	c
+.container	assets/main.css	/^.container {$/;"	c
+.icon	_site/assets/main.css	/^.icon {$/;"	c
+.icon	assets/main.css	/^.icon {$/;"	c
+.nav span	_site/assets/main.css	/^.nav span {$/;"	s
+.nav span	assets/main.css	/^.nav span {$/;"	s
+.tag	_site/assets/main.css	/^.tag {$/;"	c
+.tag	assets/main.css	/^.tag {$/;"	c
+404	404.html	/^  <h1>404<\/h1>$/;"	h
+404	_site/404.html	/^  <h1>404<\/h1>$/;"	h
+:root	_site/assets/main.css	/^:root {$/;"	s
+:root	assets/main.css	/^:root {$/;"	s
+b	_site/assets/main.css	/^b,strong{$/;"	s
+b	assets/main.css	/^b,strong{$/;"	s
+body	_site/assets/main.css	/^body {$/;"	s
+body	assets/main.css	/^body {$/;"	s
+h1	_site/assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h1	assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h2	_site/assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h2	assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h3	_site/assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h3	assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h4	_site/assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h4	assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h5	_site/assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h5	assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h6	_site/assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+h6	assets/main.css	/^h1,h2,h3,h4,h5,h6 {$/;"	s
+img.logo	_site/assets/main.css	/^img.logo{$/;"	c
+img.logo	assets/main.css	/^img.logo{$/;"	c
+nsa17ebafb0101	_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	n	uri:http://www.w3.org/2005/Atom
+strong	_site/assets/main.css	/^b,strong{$/;"	s
+strong	assets/main.css	/^b,strong{$/;"	s
