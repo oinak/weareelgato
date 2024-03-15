@@ -14,12 +14,10 @@ layout: default
   <tbody>
   {% for item in site.data.competiciones %}
     <tr>
-      <td>{{ item.mes }}</td>
-      <td>{{ item.dia }}</td>
+      <td>{{ item.mes | markdownify }}</td>
+      <td>{{ item.dia | markdownify }}</td>
       <td>{{ item.nombre | markdownify }}</td>
-      <td>
-        {{ item.info | markdownify }}
-      </td>
+      <td>{{ item.info | markdownify }}</td>
     </tr>
   {% endfor %}
   </tbody>
