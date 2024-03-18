@@ -4,8 +4,8 @@
   nombre: TNR ABS MADRID MASCULINO EQUIPOS
   info: |
     Resultados:
-    [Individual](https://app.skermo.org/ranking/public/RFEE/competition/7885)
-    [Equipos](https://app.skermo.org/client/1/463e194a18c901d2344e388abf2cf216.pdf)
+    [Individual](https://app.skermo.org/ranking/public/RFEE/competition/7885){:target="_blank"} /
+    [Equipos](https://app.skermo.org/client/1/463e194a18c901d2344e388abf2cf216.pdf){:target="_blank"}
 - mes: Marzo
   dia: 16
   nombre: AEVE
@@ -20,7 +20,9 @@
   nombre: SASLE
   info: |
     🔗 [Web](https://www.instagram.com/sasle_esgrima/)
-    <br> Resultados [Femenino](RANKING\ LIGA\ SASLE\ 23-24\ VET\ FEM\ MARZO.pdf) / [Masculino](RANKING\ LIGA\ SASLE\ 23-24\ VET\ MASC\ MARZO.pdf)
+    <br> 🏅 Resultados: [Femenino](./files/ranking_sasle_23_24_vet_fem_marzo.pdf){:target="_blank"} /
+    [Masculino](./files/ranking_sasle_23_24_vet_masc_marzo.pdf){:target="_blank"}
+    <br> ⚔️  [Cuadro directas veteranos equipos](files/sasle_cuadro_directas_veteranos_teams.pdf){:target="_blank"}
 - mes: Marzo
   dia: 22
   nombre: |
