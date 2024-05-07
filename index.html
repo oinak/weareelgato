@@ -3,11 +3,12 @@ layout: default
 ---
 
 <div>
-<p>
-<a href="https://www.fmesgrima.es/Documentos/Calendario.pdf">
-📅 Calendario oficial de competiciones de la Federación
-</a>
-</p>
+  <h2>Competiciones:</h2>
+  <p>
+    <a href="https://www.fmesgrima.es/Documentos/Calendario.pdf">
+      📅 Calendario oficial de competiciones de la Federación
+    </a>
+  </p>
 </div>
 
 <table class="striped">
@@ -17,16 +18,47 @@ layout: default
       <th>Día(s)</th>
       <th>Competición</th>
       <th>Detalles</th>
-      <tr>
-    </thead>
+    <tr>
+  </thead>
   <tbody>
-  {% for item in site.data.competiciones %}
+    {% for item in site.data.competiciones.futuras %}
     <tr>
       <td>{{ item.mes | markdownify }}</td>
       <td>{{ item.dia | markdownify }}</td>
       <td>{{ item.nombre | markdownify }}</td>
       <td>{{ item.info | markdownify }}</td>
     </tr>
-  {% endfor %}
+    {% endfor %}
   </tbody>
 </table>
+
+<details>
+  <summary>
+    <a class="button outline primary">
+      Ver competiciones pasadas
+    </a>
+  </summary>
+
+  <table class="striped">
+    <thead>
+      <tr>
+        <th>Mes</th>
+        <th>Día(s)</th>
+        <th>Competición</th>
+        <th>Detalles</th>
+      <tr>
+    </thead>
+    <tbody>
+      {% for item in site.data.competiciones.pasadas %}
+      <tr>
+        <td>{{ item.mes | markdownify }}</td>
+        <td>{{ item.dia | markdownify }}</td>
+        <td>{{ item.nombre | markdownify }}</td>
+        <td>{{ item.info | markdownify }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+</details>
+
