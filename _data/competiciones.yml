@@ -133,11 +133,17 @@ futuras:
     nombre: Campeonato de España de Veteranos
     info: |
       📍 [Pabellón del Rabal (Gandía)](https://maps.app.goo.gl/Voe1KCAR1i7QJQCC7)
-      <br><b>Sábado 15 junio</b>
-      <br>🕣 08:30 - Llamada Espada M20 - Comienzo 09:00
-      <br>🕦 11:30 - Llamada Espada VET - Comienzo 12:00
-      <br><b>Domingo 16 junio</b>
-      <br>🕣 08:30 - Llamada Florete M20/VET - Comienzo 09:00
-      <br>🕧 12:30 - Llamada Sable M20 - Comienzo 13:00
-      <br>🕜 13:30 - Llamada Sable VET - Comienzo 14:00
-      <br>📆 Inscripciones hasta el Jueves 13
+      <p>📆 <b>Sábado 15 junio</b>
+      <ul>
+      <li>🕣 08:30 - Llamada Espada M20 - Comienzo 09:00
+      <li>🕦 11:30 - Llamada Espada VET - Comienzo 12:00
+      </ul>
+      </p>
+      <p>📆 <b>Domingo 16 junio</b>
+      <ul>
+      <li>🕣 08:30 - Llamada Florete M20/VET - Comienzo 09:00</li>
+      <li>🕧 12:30 - Llamada Sable M20 - Comienzo 13:00</li>
+      <li>🕜 13:30 - Llamada Sable VET - Comienzo 14:00</li>
+      </ul>
+      ℹ️ Inscripciones hasta el Jueves 13
+      </p>
