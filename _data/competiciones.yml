@@ -99,7 +99,6 @@ pasadas:
        <br>🕠  Llamada 17:00 - Comienzo 17:30 (orientativo, depende de la Copa del Mundo)
        <br>📆 Inscripciones hasta las 23:59 h. del jueves 16 de mayo
        <br>🏆 [Resultados](https://engarde-service.com/competition/fme/240518/3sxvet/clasfinal.htm) (Fer 5º :-)
-futuras:
   - mes: Mayo
     dia: 26
     nombre: FASE FINAL VETERANOS TEAMS + FASE FINAL LIGA SASLE
@@ -110,6 +109,7 @@ futuras:
       <br>💸 Inscripción: 15€ IND - 10€ EQUIPOS
       <br>ℹ️ Tras la competición individual entrega de premios de los ganadores  finales masculinos y femeninos de la Liga Sasle
       <br>🤺🤺🤺 Equipos - tras la entrega de premios individual: Final de 8, semi finales, 5-8 puesto, 3 y 4 puesto y final!
+futuras:
   - mes: Junio
     dia: 14/15
     nombre: III Aniversario del Gato 🐈
@@ -130,7 +130,14 @@ futuras:
       <p>
   - mes: Junio
     dia: 15/16
-    nombre: CTO MADRID VETERANOS
-  - mes: Junio
-    dia: 22/23
-    nombre: CTO ESPAÑA VETERANOS GANDÍA
+    nombre: Campeonato de España de Veteranos
+    info: |
+      📍 [Pabellón del Rabal (Gandía)](https://maps.app.goo.gl/Voe1KCAR1i7QJQCC7)
+      <br><b>Sábado 15 junio</b>
+      <br>🕣 08:30 - Llamada Espada M20 - Comienzo 09:00
+      <br>🕦 11:30 - Llamada Espada VET - Comienzo 12:00
+      <br><b>Domingo 16 junio</b>
+      <br>🕣 08:30 - Llamada Florete M20/VET - Comienzo 09:00
+      <br>🕧 12:30 - Llamada Sable M20 - Comienzo 13:00
+      <br>🕜 13:30 - Llamada Sable VET - Comienzo 14:00
+      <br>📆 Inscripciones hasta el Jueves 13
